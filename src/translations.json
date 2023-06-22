@@ -1,0 +1,39 @@
+{
+    "en": {
+      "appTitle": "Weather App",
+      "cityLabel": "City",
+      "weatherTitle": "Weather",
+      "temperatureLabel": "Temperature",
+      "descriptionLabel": "Description",
+      "languageOptionEN": "English",
+      "languageOptionRU": "Русский",
+      "languageOptionET": "Eesti",
+      "themeOptionLight": "Light",
+      "themeOptionDark": "Dark"
+    },
+    "ru": {
+      "appTitle": "Приложение погоды",
+      "cityLabel": "Город",
+      "weatherTitle": "Погода",
+      "temperatureLabel": "Температура",
+      "descriptionLabel": "Описание",
+      "languageOptionEN": "English",
+      "languageOptionRU": "Русский",
+      "languageOptionET": "Eesti",
+      "themeOptionLight": "Светлая",
+      "themeOptionDark": "Темная"
+    },
+    "et": {
+      "appTitle": "Ilma rakendus",
+      "cityLabel": "Linn",
+      "weatherTitle": "Ilm",
+      "temperatureLabel": "Temperatuur",
+      "descriptionLabel": "Kirjeldus",
+      "languageOptionEN": "English",
+      "languageOptionRU": "Русский",
+      "languageOptionET": "Eesti",
+      "themeOptionLight": "Hele",
+      "themeOptionDark": "Tume"
+    }
+  }
+  
